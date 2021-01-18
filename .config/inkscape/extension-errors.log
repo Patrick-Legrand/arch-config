@@ -1,0 +1,36 @@
+L'extension « LaTeX (pdflatex) » n'a pas été chargée, car 
+Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: pdflatex
+
+L'extension « PostScript Input » n'a pas été chargée, car 
+Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: ps2pdf
+
+L'extension « XFIG Input » n'a pas été chargée, car 
+Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: fig2dev
+
+L'extension « Export to PDF via Scribus » n'a pas été chargée, car 
+Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: scribus
+
+L'extension « EPS Input » n'a pas été chargée, car 
+Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: ps2pdf
+
+L'extension « GIMP XCF » n'a pas été chargée, car 
+Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: gimp
+
